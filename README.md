@@ -6,6 +6,10 @@
 	
 ## Usage:
 - Goto menu File > Scripts > Grid Template Generator...
+ 
+## Change Logs
+- 2015-06-04: Update for support 960 grid system. And up to Github.
+- 2010-08-25: Create Project
 
 ## Screenshot
 ![Menu](http://i-designer.net/share/gridtool/step1.png)
