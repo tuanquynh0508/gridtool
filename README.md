@@ -12,7 +12,7 @@
 - 2010-08-25: Create Project
 
 ## Screenshot
-![Menu](https://github.com/tuanquynh0508/gridtool/blob/master/screenshot/step1.png)
-![Grid Generator Tool](https://github.com/tuanquynh0508/gridtool/blob/master/screenshot/step2.png)
-![Result 1](https://github.com/tuanquynh0508/gridtool/blob/master/screenshot/step3.png)
-![Result 2](https://github.com/tuanquynh0508/gridtool/blob/master/screenshot/step4.png)
+![Menu](https://github.com/tuanquynh0508/gridtool/blob/master/screenshot/step1.png?raw=true)
+![Grid Generator Tool](https://github.com/tuanquynh0508/gridtool/blob/master/screenshot/step2.png?raw=true)
+![Result 1](https://github.com/tuanquynh0508/gridtool/blob/master/screenshot/step3.png?raw=true)
+![Result 2](https://github.com/tuanquynh0508/gridtool/blob/master/screenshot/step4.png?raw=true)
