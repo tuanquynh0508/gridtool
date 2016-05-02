@@ -12,7 +12,7 @@
 - 2010-08-25: Create Project
 
 ## Screenshot
-![Menu](http://i-designer.net/share/gridtool/step1.png)
-![Grid Generator Tool](http://i-designer.net/share/gridtool/step2.png)
-![Result 1](http://i-designer.net/share/gridtool/step3.png)
-![Result 2](http://i-designer.net/share/gridtool/step4.png)
+![Menu](https://github.com/tuanquynh0508/gridtool/blob/master/screenshot/step1.png)
+![Grid Generator Tool](https://github.com/tuanquynh0508/gridtool/blob/master/screenshot/step2.png)
+![Result 1](https://github.com/tuanquynh0508/gridtool/blob/master/screenshot/step3.png)
+![Result 2](https://github.com/tuanquynh0508/gridtool/blob/master/screenshot/step4.png)
